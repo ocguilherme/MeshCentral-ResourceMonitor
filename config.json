@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "description": "Collects CPU and memory utilization from MeshCentral agents and displays historical charts.",
   "hasAdminPanel": false,
-  "homepage": "https://github.com/YOUR_USER/MeshCentral-ResourceMonitor",
-  "configUrl": "https://raw.githubusercontent.com/YOUR_USER/MeshCentral-ResourceMonitor/main/config.json",
-  "downloadUrl": "https://github.com/YOUR_USER/MeshCentral-ResourceMonitor/archive/main.zip",
+  "homepage": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor",
+  "configUrl": "https://raw.githubusercontent.com/ocguilherme/MeshCentral-ResourceMonitor/main/config.json",
+  "downloadUrl": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor/archive/main.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/YOUR_USER/MeshCentral-ResourceMonitor.git"
