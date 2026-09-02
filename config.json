@@ -9,7 +9,7 @@
   "downloadUrl": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor/archive/main.zip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USER/MeshCentral-ResourceMonitor.git"
+    "url": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor.git"
   },
   "meshCentralCompat": ">=1.1.0"
 }
