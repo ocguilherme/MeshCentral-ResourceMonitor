@@ -7,7 +7,7 @@
 var mesh = null;
 var timer = null;
 var busy = false;
-var interval = 5 * 60 * 1000;
+var interval = 1 * 60 * 1000;
 
 function collect() {
     if (busy) return;
