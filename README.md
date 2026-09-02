@@ -21,10 +21,8 @@ Plugin para MeshCentral que coleta CPU e memória dos agentes e apresenta histó
 }
 ```
 
-2. Suba este repositório no GitHub.
-3. Edite `config.json` e troque `YOUR_USER` pelo seu usuário.
-4. Em **My Server > Plugins > Download Plugin**, informe a URL do `config.json` raw.
-5. Ative o plugin e reinicie o MeshCentral.
+1. Em **My Server > Plugins > Download Plugin**, informe a URL do `config.json` raw.
+2. Ative o plugin e reinicie o MeshCentral.
 
 Os agentes precisam receber um novo MeshCore contendo o módulo do plugin antes de começarem a enviar dados. Plugins do MeshCentral podem incluir módulos em `modules_meshcore`, como ocorre em plugins existentes.
 
