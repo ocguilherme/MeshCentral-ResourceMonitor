@@ -5,11 +5,13 @@
   "description": "Collects CPU and memory utilization from MeshCentral agents and displays historical charts.",
   "hasAdminPanel": false,
   "homepage": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor",
+  "changelogUrl": "https://raw.githubusercontent.com/ocguilherme/MeshCentral-ResourceMonitor/main/changelog.md",
   "configUrl": "https://raw.githubusercontent.com/ocguilherme/MeshCentral-ResourceMonitor/main/config.json",
   "downloadUrl": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor/archive/main.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/ocguilherme/MeshCentral-ResourceMonitor.git"
   },
+  "versionHistoryUrl": "https://api.github.com/repos/ocguilherme/MeshCentral-ResourceMonitor/tags",
   "meshCentralCompat": ">=1.1.0"
 }
